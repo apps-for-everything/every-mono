@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Sukrut Sathaye <sukrutssathaye@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nx": "19.6.3"
+  }
 }
